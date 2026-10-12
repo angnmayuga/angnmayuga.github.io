@@ -1,0 +1,31 @@
+{
+  "name": "Angel Lyka Mayuga",
+  "githubUsername": "angnmayuga",
+  "tagline": "BSINTE Student - NVSU",
+  "introduction": "A student who enjoys learning new things in IT, even when it's difficult.",
+  "profileImage": "images/profile.jpg",
+  "about": {
+    "biography": "I enjoy learning programming, exploring technology, and developing practical applications.",
+    "school": "Nueva Vizcaya State University",
+    "program": "Bachelor of Science in Information Technology",
+    "graduation": "Expected graduation: 2028",
+    "careerGoal": "To become a skilled IT professional and improve my programming skills so I can create useful projects.",
+    "interests": "I am interested in programming, web design, and learning new technologies. I also enjoy improving my skills."
+  },
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "MySQL", "Problem Solving"],
+  "projects": [
+    {
+      "title": "Personal Portfolio",
+      "description": "A simple website I made to show my profile, skills, and my projects.",
+      "technologies": "HTML, CSS, JavaScript",
+      "role": "Designed and developed the website.",
+            "image": "https://via.placeholder.com/600x400/ffb6d9/000000?text=My+Portfolio",
+      "link": "./index.html"
+    }
+  ],
+  "contact": {
+    "email": "angel.lyka009@gmail.com",
+    "github": "https://github.com/angnmayuga",
+    "linkedin": ""
+  }
+}
